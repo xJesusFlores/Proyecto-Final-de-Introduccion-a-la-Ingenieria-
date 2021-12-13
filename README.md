@@ -6,7 +6,7 @@ Grupo-1108
 
 Integrantes
 
--Moises Mendoza
+- Moises Mendoza
 
 - Flores  Blancas Jesus Alberto
 
