@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main()
-//Funcion suma
+//Funcion suma (Moises)
 {
 int num1, num2, resultado;
 printf("Ingrese el primer valor\n");
