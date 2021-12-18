@@ -14,4 +14,4 @@ Integrantes
 
 - Vargas Sánchez Rey Alfonso
 
--
+- Rodríguez Galindo Isai
