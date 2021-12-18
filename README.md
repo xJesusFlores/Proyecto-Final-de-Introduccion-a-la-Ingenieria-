@@ -12,6 +12,6 @@ Integrantes
  
 - Saul Hidalgo Arcos 
 
--
+- Vargas Sánchez Rey Alfonso
 
 -
