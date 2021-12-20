@@ -14,3 +14,22 @@ return 0;
 
 }
 
+{
+//funcion de que suma los numeros que hay desde cero hasta la cantidad deseada (Rey)
+
+	int limite;
+	int suma;
+	int contador;
+
+	printf("Limite: ");
+	scanf_s("%i", &limite);
+
+	contador = 0;
+	suma = 0;
+	while( ++contador <= limite )
+	{		
+		suma = suma + contador;	
+	}
+
+	printf("La suma de los primeros %i numeros es %i", contador-1, suma);
+}
